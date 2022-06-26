@@ -1,0 +1,12 @@
+###### Requirements without Version Specifiers ######
+numpy
+pandas
+sklearn
+gunicorn
+
+###### Requirements with Version Specifiers ######
+
+nltk == 3.7
+tensorflow == 2.9.1
+bs4 == 0.0.1
+flask == 2.1.2
